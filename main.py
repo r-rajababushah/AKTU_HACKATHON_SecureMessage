@@ -1,4 +1,4 @@
-"""SecureMessage: a local, educational cryptography demonstration."""
+"""SecureMessage: a local, educational cryptography demonstration.,"""
 import base64
 import json
 import os
